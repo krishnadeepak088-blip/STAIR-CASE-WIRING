@@ -1,5 +1,6 @@
 # STAIR-CASE-WIRING
-
+### Name: Deepak Krishna M
+### Reg no:212224080012
 AIM
 To control the status of the given lamp by using two – way switches.
 
